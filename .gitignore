@@ -1,0 +1,4 @@
+node_modules
+
+# Mac template
+*/**/.DS_Store

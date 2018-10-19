@@ -1,0 +1,97 @@
+{
+  "keywords": false,
+  "meta": {
+    "attributes": {
+      "property": {
+        "value": ["og:description", "og:title", "description"],
+        "required": true
+      },
+      "name": {
+        "value": ["description"],
+        "required": true
+      },
+      "content": {
+        "value": [],
+        "required": true,
+        "keywordRequired": false
+      }
+    },
+    "required":true
+  },
+  "title": {
+    "attributes":{},
+    "text":{
+      "value":[],
+      "required":true,
+      "keywordRequired":false
+    },
+    "required":true
+  },
+  "strong": {
+    "attributes":{},
+    "text":{
+      "value":[],
+      "required":true,
+      "keywordRequired":false
+    },
+    "required":true
+  },
+  "h1": {
+    "attributes":{},
+    "text":{
+      "value":[],
+      "required":true,
+      "keywordRequired":false
+    },
+    "required":true
+  },
+  "a": {
+    "attributes": {
+    },
+    "text":{
+      "value":[],
+      "required":true,
+      "keywordRequired":false
+    },
+    "required":true
+  },
+  "link": {
+    "attributes": {
+      "rel": {
+        "value": [],
+        "required": true
+      },
+      "hreflang": {
+        "value": [],
+        "required": true
+      }
+    },
+    "required":true
+  },
+  "video": {
+    "attributes":{
+      "src":{
+        "value": [],
+        "required": true
+      },
+      "type":{
+        "value": [],
+        "required": true
+      }
+    },
+    "required":false
+  },
+  "source":{
+    "attributes":{
+      "src":{
+        "value": [],
+        "required": true
+      },
+      "type":{
+        "value": [],
+        "required": true
+      }
+    },
+    "required":false
+  }
+}
